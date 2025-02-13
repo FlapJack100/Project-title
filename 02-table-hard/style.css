@@ -1,0 +1,61 @@
+.main-title {
+  display: flex;
+  justify-content: space-around;
+  margin-right: 28rem;
+}
+table {
+  background-color: #f6f6f6;
+  margin: 1px ;
+  border-collapse: collapse;
+  
+}
+#one {
+  background-color: #000000;
+}
+.two {
+  background-color: rgb(42, 165, 136);
+  color: white;
+  font-weight: 700;
+}
+.three {
+  background-color: rgb(42, 165, 136);
+  color: white;
+  font-weight: 700;
+}
+.four{
+  background-color: rgb(42, 165, 136);
+  color: white;
+  font-weight: 700;
+}
+
+td, th {
+  color: #0e0d0d;
+  border: 1px solid #999;
+  padding: 20px;
+  margin: 20px;
+  text-align: left;
+}
+#header {
+  background-color: black;
+  color: bisque;
+}
+
+th {
+  background: rgb(42, 165, 136);
+  color: white;
+  padding: 6px;
+  margin-left: 12px;
+  margin-right: 12px;
+}
+
+.primary {
+  background-color: #000000;
+}
+
+tfoot > tr  {
+  color: white;
+}
+
+tbody > tr:hover {
+  background-color: #b98ee6;
+}

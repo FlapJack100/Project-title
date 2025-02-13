@@ -1,0 +1,25 @@
+thead {
+    background-color:#dfdfe2;
+    border: 1px #dfdfe2;
+    padding: 6px;
+    margin: 10px;
+    font-size: 1rem;
+    font-weight: 700;
+    
+}
+
+td {
+    padding: 6px;
+    margin: 12px;
+}
+th {
+    padding: 6px;
+    margin: 12px;
+    border: 1px solid #dfdfe2;
+    font-size: 1rem;
+    font-weight: 700;
+}
+.summary-row {
+    background-color:#dfdfe2;
+    font-weight: 700;
+}
